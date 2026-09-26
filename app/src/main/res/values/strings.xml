@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aalap</string>
+    <string name="app_tagline">অনলাইন চ্যাট ও সংযোগ</string>
+    <string name="tab_chats">চ্যাট</string>
+    <string name="tab_online">অনলাইন</string>
+    <string name="tab_groups">গ্রুপ</string>
+    <string name="tab_profile">প্রোফাইল</string>
+    <string name="search_hint">আলাপ বা পরিচিতি খুঁজুন…</string>
+    <string name="type_message_hint">বার্তা লিখুন…</string>
+    <string name="online_now">অনলাইন</string>
+    <string name="offline">অফলাইন</string>
+    <string name="typing">টাইপ করছে…</string>
+    <string name="send">পাঠান</string>
+</resources>

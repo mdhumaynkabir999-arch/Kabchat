@@ -1,0 +1,6 @@
+{
+  "name": "Aalap",
+  "description": "একটি আধুনিক অনলাইন চ্যাট অ্যাপ্লিকেশন - রিয়েল-টাইম বার্তা, গ্রুপ চ্যাট, অনলাইন ফ্রেন্ডস, মিডিয়া ও ভয়েস নোটস।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
